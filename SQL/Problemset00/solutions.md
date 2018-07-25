@@ -187,10 +187,4 @@ Record Count - 1
 
 select e.name from employee e join dept d on e.dep_id=d.dep_id where d.depmanager='TIM COOK' and e.name!='TIM COOK';
 
-MARTIN TREDEAU
-PAUL VINCENT
-BRAD MICHAEL
-EDWARD CANE
-JOHN HELLEN
-
-Record Count - 5
+Record Count - 0
