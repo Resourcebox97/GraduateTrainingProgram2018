@@ -3,11 +3,11 @@ Submission by srikantan.prakash@accenture.com
 
 1)How does agile testing (development) methodology differ from other testing (development) methodologies?
 
-	Waterfall is rigid and has a sequential phase that is always followed throughout the process, while agile is flexible and it has timeboxed events called sprints where the lifecycle of development is carried out. While all the other development methodologies consider the process to be a single project, the agile considers the projects as several mini projects, and with each mini project completion before the mini project is deployed the user is made to check with the product, thus adding the inputs of the user to the product and gaining the satisfaction of the user too.
+	Waterfall is rigid and has a sequential phase that is always followed throughout the process, while agile is flexible and it has timeboxed events called sprints where the lifecycle of development is carried out. While all the other development methodologies consider the process to be a single project, the agile considers the projects as several mini projects, and with each mini project completion the user is made to check with the product and then the product is deployed, thus adding the inputs of the user to the product and gaining the satisfaction of the user too.
 
 2)What are the most important components of Agile?
 
-	The important methodology components of agile are scrum, Lean & Kanban, Extreme Programming, Dynamic Systems Development Method and Feature-Driven Development methods.
+	The important methodology components of agile are epic, features, user stories and tasks.
 
 3)What is difference between Epic,features, User stories & Tasks?
 
