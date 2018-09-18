@@ -56,7 +56,7 @@ Submission by srikantan.prakash@accenture.com
 
 14)Explain Agile in 30 seconds.
 
-	Agile software development is a set of principles for software development in which there is an evloving change in requirements and it enforces the concept of using cross functional and slef organized teams to develop a working software.
+	Agile software development is a set of principles for software development in which there is an evolving change in requirements and it enforces the concept of using cross functional and self organized teams to develop a working software.
 
 15)What is the Daily Stand-Up?
 
