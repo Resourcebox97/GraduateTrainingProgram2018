@@ -1,0 +1,39 @@
+1. What is meant by a Working copy in Version control?
+
+		A working copy is the local repository which is created in the user's system.
+
+2. Which Git command is used to create a working copy of a repository on your machine?
+
+		Git init is used to create working copy in the system.
+
+3. What is the use of the GIT pull command?
+
+		The GIT pull command is used to download the files from remote server
+
+4. Which GIT command is used to move an untracked change into the staging area?
+
+		git add 'filename'
+
+5. How do you set up your SSH key settings in Github? What is the use of setting up SSH key?
+
+		To set ssh key using the gitbash tool, it is mostly a phrase. It is done using ssh-keygen. Then it must be added  to the ssh agent using the eval $(ssh-agent -s), then the created key can be added to the github account using the settings from the top right side corner drop down.
+
+6. What is meant by a Branch in Version control? How do you create a new branch in GIT?
+
+		A mainline of work progresses in one direction, the concept of branch involves pulling the work from mainline and it lets us to work on the created branch pathway without disturbing the mainline of the code and then finally allows us to psuh the created code in the branch to the mainline without crashing the mainline code. A master branch is always initialized and we can create other branches using $git branch "branchname" in git console.
+
+7. Which branch gets created by default when you first create a repository in GIT?
+		
+		The master branch is created by default.
+
+8. Which of these facts about GIT is accurate ?
+
+		d) GIT is an open-source ,distributed version control tool.
+
+9. What is the difference between Git and Github?
+
+		A git is a version control system while github is a remote server used to store the data from the git.
+
+10. What is meant by a repository in version control?
+
+		A repository is a file storage location, in version control the repository is the location where the created files of source code are stored at.

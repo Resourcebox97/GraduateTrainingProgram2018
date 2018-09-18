@@ -1,0 +1,35 @@
+1. Why should you use a version control tool?
+
+		We use a version control tool to store the back up of the source code of a working product with a specification of the version. If any improvement is made to the code and the code doesn't generate desired output, then the backup created can be reused to recreate the working product.
+
+2. Which of the following correctly describes what a unit test is
+
+		a. It is a level of software testing where the individual units are tested.
+
+3. What are the various build tools used in Java?
+
+		ANT, Maven, Gradle
+
+4. One of your projects fail compilation errors due to missing JAR files that are needed for your project. Which of the following tools can help to fix the errors
+
+		d. Apache Maven
+
+5. What is meant by a "commit" in a version control Tool?
+
+		A commit adds the latest change of the source code to the repository and a version will be stored indefinitely.
+
+6. Which utility can be used to move deployment packages across servers
+
+		c. SSH
+
+7. How is system testing different from unit testing and Integration testing?
+
+		A system testing is done after integrating units and performing integration testing to check whether the individual units can perform together as a system.
+
+8. What are the some of the metrics that are measured/evaluated during a performance testing phase?
+
+		The stress, volume and preformance of the product are tested.
+
+9. What is meant by Regression testing?
+
+		Regression testing is the process of testing the product after the increment of a few modules to the system, whether the system was able to handle the changes and it still works well.
